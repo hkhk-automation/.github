@@ -1,10 +1,11 @@
-# Automatiseerimise õpe — Haapsalu KHK
+# Automatiseerimise õpe
 
-Siin toimub automatiseerimise ja DevOpsi õpe. Kõik ühes kohas: materjal, praktikumid, arutelu ja töö esitamine.
+Siin toimub automatiseerimise ja DevOpsi õpe.
 
 ## Mida siin õpid
 
-Käsitsi tehtud IT-töö ei skaleeru. Siin õpid tegema seda **koodiga** — korratavalt, üle vaadatult, automaatselt. Git, Ansible, Docker, CI/CD, Terraform — igaüks lahendab ühe käsitöö-valu, kokku terve tarneahel.
+Käsitsi tehtud IT-töö ei skaleeru. Siin õpid tegema seda **koodiga** korratavalt, üle vaadatult, automaatselt.
+Git, Ansible, Docker, CI/CD, Terraform, igaüks lahendab ühe käsitöö-valu, kokku terve tarneahel.
 
 ## Kursused
 
@@ -20,7 +21,7 @@ Käsitsi tehtud IT-töö ei skaleeru. Siin õpid tegema seda **koodiga** — kor
 - **Arutelu ja küsimused** — iga kursuse **Discussions** (küsi seal, mitte privaatselt — nii näevad kõik vastust)
 - **Töö esitamine** — oma privaatne repo (õpetaja jagatud accept-link)
 
-## Kuidas siin töötada
+## Kuidas siin õppida
 
 1. Tee GitHubi konto (kui pole).
 2. Võta vastu kursuse accept-link → saad oma privaatse repo.
