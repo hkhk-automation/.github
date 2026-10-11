@@ -12,13 +12,12 @@ Git, Ansible, Docker, CI/CD, Terraform, igaüks lahendab ühe käsitöö-valu, k
 | Kursus | Repo | Kellele |
 |---|---|---|
 | **IT-24 — Automatiseerimine (DevOps)** | [`devops`](https://github.com/hkhk-automation/devops) | III kursus, noored |
-
-*(lisandub kursuste kaupa)*
+| **ITS-25 — Automatiseerimine (DevOps Lite)** | [`devops-lite`](https://github.com/hkhk-automation/devops-lite) | ITS-25, 5 kohtumist |
 
 ## Kust mida leiad
 
-- **Materjal** — kursuse sait (loeng + praktikum iga nädal), nt [IT-24 sait](https://hkhk-automation.github.io/devops/)
-- **Arutelu ja küsimused** — iga kursuse **Discussions** (küsi seal, mitte privaatselt — nii näevad kõik vastust)
+- **Materjal** — kursuse sait (loeng + praktikum iga nädal), [IT-24 sait](https://hkhk-automation.github.io/devops/), [ITS-25 sait](https://hkhk-automation.github.io/devops-lite/)
+- **Arutelu ja küsimused** — kursuse **Discussions** (küsi seal, mitte privaatselt — nii näevad kõik vastust). ITS-25: [its25-arutelu](https://github.com/hkhk-automation/its25-arutelu/discussions), näevad ainult rühma liikmed
 - **Töö esitamine** — oma privaatne repo (õpetaja jagatud accept-link)
 
 ## Kuidas siin õppida
